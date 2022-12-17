@@ -1,6 +1,6 @@
-# blog
-Michal Ciechan Blog
+# Mike Ciechan's Blog
 
+From: https://github.com/mmistakes/mm-github-pages-starter
 
 ## Local Dev
 
