@@ -34,4 +34,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 
 ## Bulma Clean Theme
-gem "bulma-clean-theme"
+gem 'github-pages', group: :jekyll_plugins

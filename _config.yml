@@ -28,7 +28,8 @@ twitter_username: MichalCiechan
 github_username:  michal-ciechan
 
 # Build settings
-theme: bulma-clean-theme
+# With GitHub Pages Gem (Add to GemFile `gem 'github-pages', group: :jekyll_plugins`)
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 
